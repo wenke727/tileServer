@@ -1,0 +1,1 @@
+TILE_FOLDER = "/home/pcl/Data/tile"
